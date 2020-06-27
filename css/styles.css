@@ -1,0 +1,94 @@
+#title {
+    background-color:#b4e9eb; 
+}
+a, .features {
+    font-family: 'Montserrat Alternates', sans-serif;
+    size: 3rem;
+    line-height: 1.5;
+}
+.a:hover{
+color: #01221e;
+}
+.logoimg{
+    border-left: 25px;
+    width: 50px;
+    height: 50pxs;
+    
+}
+#images {
+    align-content: center;
+}
+.img {
+margin: 5%
+}
+.imgg {
+    margin: 5%
+}
+.imggg {
+    margin: 5%
+}
+.container-fluid {
+    padding: 15px 100px 80px 30px;
+
+}
+#features {
+    background-color: #b4e9eb;
+}
+.features{
+    text-align: center;
+    padding: 5%;
+}
+.download{
+    font-family: 'Montserrat Alternates', sans-serif;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    text-align: center;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+h3 {
+    font-size: 1,5rem;
+}
+p {
+    color: #333d3d;
+    padding: 0 50px;
+
+}
+.icon {
+    color: #026e2b;
+    padding-bottom: 5%;
+}
+.icon:hover{
+    color:  #4304f0;
+}
+.footer{
+    background-color: #b4e9eb;
+    text-align: center;
+    padding-left: 22%;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+.container {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #ffffff;
+}
+
+
+}
+.login-space{
+    border: 3px;
+    margin: 10px 12px;
+}
+.text {
+    padding: 5%;
+    text-align: center;
+    font-family: 'Montserrat Alternates', sans-serif;
+    size: 3rem;
+    line-height: 1.5;
+color: rgb(21, 21, 46);
+}
+
+
+
+
